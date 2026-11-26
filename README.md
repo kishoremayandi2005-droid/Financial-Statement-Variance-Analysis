@@ -45,3 +45,14 @@ This project analyzes financial performance using Microsoft Power BI. It helps u
 
 ## Conclusion
 This project demonstrates how Power BI can transform financial data into interactive dashboards and meaningful business insights to support data-driven decisions.
+
+## Dashboard Screenshots
+
+### 1. Financial Overview
+![Financial Overview](Financial_Overview.png)
+
+### 2. Sales Trends
+![Sales Trends](Sales_Trends.png)
+
+### 3. Business Insights
+![Business Insights](Business_Insights.png)
